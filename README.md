@@ -1,12 +1,22 @@
 # inet3101-lab1.5
-**Assignment Overview:** 
-- Go through and look at each numbered file in the inet3101-dynamic-memory repo.
-- Do what the instruction at the bottom says.
-- Look at "header-examples" and do that task.
+**Assignment Overview**
+- Review Dynamic Memory Examples:
+  - Examine each numbered file in the inet3101-dynamic-memory repository. Follow the instructions at the bottom of each file, which may involve:
 
-**Submission Details:**
-- My header-example task is the myheader folder, instruction how to run it will be found in the mathprogram.c file within it.
-- The word doc will have the other tasks that involves writing paragraphs and screenshots.
-- Since we only modified one file's code, it'll be the only one submitted.
+- Explaining concepts in a short paragraph.
+  - Making the code work.
+  - Modifying the code as specified.
+- Header Examples:
+  - Review the contents of the header-examples directory and complete the associated task.
 
+**Submission Details**
+- Header Example Task:
+  -The completed header example is located in the myheader folder. For instructions on how to run this example, please refer to the mathProgram.c file within that directory.
+
+- Documentation:
+  A Microsoft Word document (inet3101-studentname-lab15.docx) is included. This document contains:
+  - Screenshots of your working code.
+  - Paragraphs explaining the key concepts and your approach for the tasks completed.
+  - Source Code:
+  Only the file that required code modification is submitted. All other examples are included for reference.
 
