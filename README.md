@@ -2,10 +2,9 @@
 **Assignment Overview**
 - Review Dynamic Memory Examples:
   - Examine each numbered file in the inet3101-dynamic-memory repository. Follow the instructions at the bottom of each file, which may involve:
-
-- Explaining concepts in a short paragraph.
-  - Making the code work.
-  - Modifying the code as specified.
+    - Explaining concepts in a short paragraph.
+    - Making the code work.
+    - Modifying the code as specified.
 - Header Examples:
   - Review the contents of the header-examples directory and complete the associated task.
 
