@@ -15,6 +15,7 @@
 
 - Documentation:
   A Microsoft Word document (inet3101-studentname-lab15.docx) is included. This document contains:
+  \n
   - Screenshots of your working code.
   - Paragraphs explaining the key concepts and your approach for the tasks completed.
   - Source Code:
