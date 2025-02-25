@@ -18,5 +18,5 @@
   - Screenshots of your working code.
   - Paragraphs explaining the key concepts and your approach for the tasks completed.
   - Source Code:
-  Only the file that required code modification is submitted. All other examples are included for reference.
+    Only the file that required code modification is submitted. All other examples are included for reference.
 
